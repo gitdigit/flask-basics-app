@@ -13,7 +13,7 @@ source venv/bin/activate
 
 3. Install Flask
 ```
-/pip install Flask  
+pip install Flask  
 ```
 
 4. Add a app.py file in the repository 
